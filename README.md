@@ -61,3 +61,5 @@ Em **Settings → Pages**, escolha **Deploy from a branch**, branch `main`, past
 ## Créditos e licença
 
 Desenvolvido por [Elias Sulzek](https://github.com/eliassulzek). Fontes: Bricolage Grotesque e Newsreader, ambas sob licença SIL Open Font License 1.1, distribuídas via Fontsource.
+
+O código deste projeto está sob a licença MIT (veja o arquivo LICENSE). As fontes mantêm a licença original, SIL Open Font License 1.1.

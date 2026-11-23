@@ -2,6 +2,8 @@
 
 Landing page de uma clínica **fictícia** de terapia manual suave, inspirada na microfisioterapia. Projeto de portfólio de front-end: HTML semântico, CSS responsivo e um pouco de JavaScript, sem frameworks e sem dependências.
 
+**Site publicado:** https://eliassulzek.github.io/clinica-ki-landing-page/
+
 ![Página inicial no desktop](./prints/desktop-hero.png)
 
 ## Visão geral
